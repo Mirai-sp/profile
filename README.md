@@ -37,7 +37,7 @@
   </p>
 </div>
 
-<!--![Snake animation](https://github.com/mirai-sp/profile/blob/output/github-contribution-grid-snake.svg)!-->
+![Snake animation](https://github.com/mirai-sp/profile/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   Profile Visits:
