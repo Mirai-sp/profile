@@ -1,4 +1,4 @@
-### 👋 Olá, meu nome é Denis Queiroz!
+### 👋 Olá, bem vindo ao meu perfil meu nome é Denis Queiroz!
 #### Desenvolvedor full stack web/mobile/desktop.
 
 <div>
