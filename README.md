@@ -1,7 +1,8 @@
-### 👋 Olá, bem vindo meu nome é Denis Queiroz!
-#### Desenvolvedor full stack web/mobile/desktop.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/76704694/139088480-480e7f07-ba4e-412e-8706-5d80199fbfbf.gif"/>
+  <p align="center">👋 <b>Olá seja bem vindo, meu nome é Denis Queiroz!</b></p>
+  <p>Desenvolvedor full stack web/mobile/desktop.</p>
 
-<div>
   <a href="https://www.linkedin.com/in/denis-lmqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/denis.lmq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
@@ -11,8 +12,8 @@
 <div style="display: inline_block;">
   <p align="center">
     <a href="https://github.com/mirai-sp">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mirai-sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirai-sp&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mirai-sp&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirai-sp&layout=compact&langs_count=7&theme=onedark"/>
   </p>
 </div>
 
